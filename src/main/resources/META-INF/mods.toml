@@ -22,7 +22,7 @@ description='''${mod_description}'''
 [[dependencies.annoyingvillagers]]
     modId="epicfight"
     mandatory=true
-    versionRange="[20.9.7]"
+    versionRange="[20.9.7, 20.9.8)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.annoyingvillagers]]
